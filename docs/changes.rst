@@ -32,6 +32,9 @@ Version 1.8.0
   instead of failing with ``RuntimeError: generator raised StopIteration``.
   By :user:`LuisFigueroaG`, :issue:`837`.
 
+* Restore the IncPy, PyF and SAS Clinical Data Integration references in
+  :doc:`related_work`. :issue:`616`.
+
 Version 1.7.33
 --------------
 

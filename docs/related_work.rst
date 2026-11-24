@@ -186,7 +186,8 @@ filter, join and sort.
 
 **SAS Clinical Data Integration**
 
-- http://www.sas.com/industry/pharma/cdi/index.html
+- `SAS Clinical Data Integration documentation
+  <https://support.sas.com/en/software/sas-clinical-data-integration-support.html>`_
 
 **R Reshape Package**
 
@@ -228,7 +229,7 @@ Looks abandoned since 2009, but there is some code.
 
 **PyF**
 
-- http://pyfproject.org/
+- `PyF dataflow library on PyPI <https://pypi.org/project/pyf/>`_
 
 **PyDTA**
 
@@ -283,7 +284,10 @@ seamless format import & export.
 
 **IncPy**
 
-- http://www.stanford.edu/~pgbovine/incpy.html
+- `Towards Practical Incremental Recomputation for Scientists:
+  An Implementation for the Python Language
+  <https://pg.ucsd.edu/publications/IncPy-memoization-in-Python-interpreter-preliminary_TaPP-2010.pdf>`_
+  (2010 research paper, PDF)
 
 Doesn't have any ETL functionality, but possibly (enormously) relevant
 to exploratory development of a transformation pipeline, because you
