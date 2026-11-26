@@ -1,7 +1,4 @@
 # -*- coding: utf-8 -*-
-from __future__ import absolute_import, print_function, division
-
-
 # standard library dependencies
 try:
     # prefer lxml as it supports XPath

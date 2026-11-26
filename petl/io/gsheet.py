@@ -1,6 +1,4 @@
 # -*- coding: utf-8 -*-
-from __future__ import absolute_import, print_function, division
-
 from petl.util.base import Table, iterdata
 from petl.compat import text_type
 from petl.errors import ArgumentError as PetlArgError

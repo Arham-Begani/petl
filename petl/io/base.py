@@ -1,7 +1,4 @@
 # -*- coding: utf-8 -*-
-from __future__ import division, print_function, absolute_import
-
-
 import locale
 import codecs
 from petl.compat import izip_longest

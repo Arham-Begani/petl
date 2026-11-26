@@ -9,9 +9,6 @@ Collisions found so far: ``header`` (issue #555, PR #704), ``dicts``
 ``test_no_shadowed_api_names`` scans the source for new ones.
 """
 
-from __future__ import absolute_import, print_function, division
-
-
 import ast
 import json as _json
 import os

@@ -1,7 +1,4 @@
 # -*- coding: utf-8 -*-
-from __future__ import absolute_import, print_function, division
-
-
 import os
 import sqlite3
 from tempfile import NamedTemporaryFile

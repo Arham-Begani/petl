@@ -1,7 +1,4 @@
 # -*- coding: utf-8 -*-
-from __future__ import absolute_import, print_function, division
-
-
 # internal dependencies
 from petl.util.base import Table
 from petl.io.sources import read_source_from_arg, write_source_from_arg

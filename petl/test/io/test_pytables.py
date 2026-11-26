@@ -1,7 +1,4 @@
 # -*- coding: utf-8 -*-
-from __future__ import division, print_function, absolute_import
-
-
 from itertools import chain
 from tempfile import NamedTemporaryFile
 

@@ -1,5 +1,3 @@
-from __future__ import absolute_import, division, print_function
-
 import operator
 
 from petl.compat import next, text_type

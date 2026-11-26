@@ -1,6 +1,3 @@
-from __future__ import absolute_import, print_function, division
-
-
 import locale
 from itertools import islice
 from collections import defaultdict

@@ -1,6 +1,4 @@
 # -*- coding: utf-8 -*-
-from __future__ import absolute_import, print_function, division
-
 import pytest
 
 from petl.test.helpers import eq_, ieq, get_env_vars_named

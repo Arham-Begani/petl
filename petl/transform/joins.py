@@ -1,5 +1,3 @@
-from __future__ import absolute_import, division, print_function
-
 import itertools
 
 from petl.comparison import Comparable, comparable_itemgetter
